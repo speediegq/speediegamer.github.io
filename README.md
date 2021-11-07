@@ -3,6 +3,7 @@
 ## 🥇 speedie://about | Because it needs to be cool you know :)
 ##### I'm speedie (also known as spdgmr and speediegamer) I like tinkering with computers and doing random dumb stuff.
 ##### I archive Wii stuff and sometimes make stuff for a 16 year old operating system running on 13 year old Macs. (Project 081)
+##### Other than that I spend most of my time playing Geometry Dash, doing dumb stuff on Discord and various other things.
 
 ## 🔗 Projects
 - Elevendebloater https://github.com/speediegamer/elevendebloater
