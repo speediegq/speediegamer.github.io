@@ -1,6 +1,6 @@
 # 🚩 speedie's generic md page!  | [Repositories](speediegamer.github.io/repo.md) | [Twitter](twitter.com/spdgmr) | [YouTube](youtube.com/speedie)
 
-## 🥇 speedie://about | Because it needs to be cool you know :)
+## 🥇 speedie://about
 ##### I'm speedie (also known as spdgmr and speediegamer) I like tinkering with computers and doing random dumb stuff.
 ##### I archive Wii stuff and sometimes make stuff for a 16 year old operating system running on 13 year old Macs. (Project 081)
 ##### Other than that I spend most of my time playing Geometry Dash, doing dumb stuff on Discord and various other things.
