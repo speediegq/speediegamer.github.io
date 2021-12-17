@@ -1,30 +1,39 @@
-# 🚩 speedie's generic md page!  | [Repositories](speediegamer.github.io/repo.md) | [Twitter](twitter.com/spdgmr) | [YouTube](youtube.com/speedie)
+## 🚩 speedie's generic md page!  | [Repositories](github.com/speediegamer/repositories) | [Twitter](twitter.com/spdgmr) | [YouTube](youtube.com/speedie)
 
-## 🥇 speedie://about
-##### I'm speedie (also known as spdgmr and speediegamer) I like tinkering with computers and doing random dumb stuff.
-##### I archive Wii stuff and sometimes make stuff for a 16 year old operating system running on 13 year old Macs. (Project 081)
-##### Other than that I spend most of my time playing Geometry Dash, doing dumb stuff on Discord and various other things.
+### speedie://about
+##### Hello, I'm speedie and I like technology.. I guess.
+##### I mostly use my GitHub for random projects and for hosting random configs.
 
-## 🔗 Projects
-- [Elevendebloater](https://github.com/speediegamer/elevendebloater)
-- [gmdccstealer](https://github.com/speediegamer/gmdccstealer)
-- [Nintendo Wii Archive](https://wii-wad.github.io)
-- [Archived Firefox Start Page](https://speediegamer.github.io/firefoxstartpage)
-- [Project 081](https://p081.github.io)
-- [The81Project](https://github.com/speediegamer/the81project)
-- [Various reuploads](https://github.com/speediegamer/speediereups)
+##### I live in Sweden, have no life whatsoever and I'm totally addicted to achiveing computing greatness!
+##### Currently running Gentoo GNU/Linux with dwm
 
-## 🔥 Socials
-- [Archive.org](https://archive.org/details/@speediegamer)
-- [Twitter](https://twitter.com/spdgmr)
-- [YouTube](https://youtube.com/speedie)
-- [YouTube #2](https://www.youtube.com/channel/UCQl78VHsMRC3HWeetQckl0A)
-- [Forwarder Factory YouTube](https://youtube.com/forwarderfactory)
-- [Forwarder Extras YouTube](https://www.youtube.com/channel/UCGM5uZ_AKtbrvqbTi4EP2zA)
-- [Join Forwarder Factory](https://ffdiscord.github.io)
-- [Nintendo Wii Archive](https://wii-wad.github.io) (Yes, I posted this one again lol)
-- [Discord Server](https://discord.gg/SNAMM9tFC6)
-- Discord: speedie#8260 (Feel free to add me!)
+## Projects made/maintained by myself:
+- Elevendebloater https://github.com/speediegamer/elevendebloater
+- Project 081 https://p081.github.io
+- Archived Firefox Start Page https://speediegamer.github.io/firefoxstartpage
+- Nintendo Wii Archive https://github.com/forwarderfactory/wii
+- Homebrew Channel Archive https://github.com/forwarderfactory/hbc-archive
+- gmdccstealer (now private for obvious reasons) https://github.com/speediegamer/gmdccstealer
+
+## Linux configurations:
+##### No guides, no support, and no warranty, just free configurations!
+- My suckless DWM config https://github.com/speediegamer/dwm
+- My suckless slstatus config https://github.com/speediegamer/slstatus
+- My Gentoo kernel config https://github.com/speediegamer/gentoo-kernel
+- My Portage make.conf https://github.com/speediegamer/portage
+##### I highly recommend you *git clone* them whenever you need them
+##### If git is not available, you can *wget* them instead.
+
+## Socials:
+- Archive.org https://archive.org/details/@speediegamer
+- Wasteof https://wasteof.money/@speedie (fyi i own 20+ more accounts)
+- Twitter https://twitter.com/spdgmr
+- Project 081 Twitter https://twitter.com/project081
+- YouTube https://youtube.com/speedie
+- YouTube 2 https://youtube.com/forwarderfactory
+- Discord *speedie #8260*
+- Discord Server: https://discord.gg/SNAMM9tFC6 (inactive)
+- Discord Server 2: https://ffdiscord.github.io
 
 
 
